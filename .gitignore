@@ -16,3 +16,4 @@ config.ini
 deploy_key_rsa
 test.*
 deploy.sh
+*.log
